@@ -122,6 +122,12 @@ The tests run offline: the API and the channels are mocked.
 - API reference: [nestdaddy.com/apis](https://nestdaddy.com/apis) and the [OpenAPI spec](https://nestdaddy.com/openapi.json)
 - More examples in Python, JavaScript and curl: [nestdaddy/nestdaddy-examples](https://github.com/nestdaddy/nestdaddy-examples)
 
+## Community
+
+Questions, ideas, or something you built? Join **Agent Builders**, our Discord for people building AI agents and MCP servers: daily MCP news, alerts when MCP servers change their tools, and help from our team.
+
+[Join on Discord](https://discord.gg/CXStfSFC3v)
+
 ## License
 
 MIT
