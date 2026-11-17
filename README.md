@@ -1,5 +1,7 @@
 # news-digest-bot
 
+> NestDaddy launched on Product Hunt on 17 Nov 2026. Feedback and reviews welcome: [producthunt.com/products/nestdaddy](https://www.producthunt.com/products/nestdaddy)
+
 [![tests](https://github.com/nestdaddy/news-digest-bot/actions/workflows/tests.yml/badge.svg)](https://github.com/nestdaddy/news-digest-bot/actions/workflows/tests.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
