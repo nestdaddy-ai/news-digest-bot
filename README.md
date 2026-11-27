@@ -2,7 +2,7 @@
 
 > NestDaddy launched on Product Hunt on 17 Nov 2026. Feedback and reviews welcome: [producthunt.com/products/nestdaddy](https://www.producthunt.com/products/nestdaddy)
 
-[![tests](https://github.com/nestdaddy/news-digest-bot/actions/workflows/tests.yml/badge.svg)](https://github.com/nestdaddy/news-digest-bot/actions/workflows/tests.yml)
+[![tests](https://github.com/nestdaddy-ai/news-digest-bot/actions/workflows/tests.yml/badge.svg)](https://github.com/nestdaddy-ai/news-digest-bot/actions/workflows/tests.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 A small Python bot that sends you **one clean news digest every morning** to Telegram, Slack or email:
@@ -122,7 +122,7 @@ The tests run offline: the API and the channels are mocked.
 
 - Step by step guide: [Build a daily news digest bot in Python](https://nestdaddy.com/blog/news-digest-bot-python)
 - API reference: [nestdaddy.com/apis](https://nestdaddy.com/apis) and the [OpenAPI spec](https://nestdaddy.com/openapi.json)
-- More examples in Python, JavaScript and curl: [nestdaddy/nestdaddy-examples](https://github.com/nestdaddy/nestdaddy-examples)
+- More examples in Python, JavaScript and curl: [nestdaddy/nestdaddy-examples](https://github.com/nestdaddy-ai/nestdaddy-examples)
 
 ## Community
 
